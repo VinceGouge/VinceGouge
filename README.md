@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinceGouge
-- 👀 I’m interested in robotics, mechanical engineering and software development
-- 🌱 I’m currently learning C# and the basics of machine learning
-- 💞️ I’m looking to collaborate in C#, C++ and Python projects related to science and engineering
+- 👀 I’m interested in machine learning, DevOps/MLOps, robotics, and clever software design
+- 🌱 I’m currently working as a fullstack C# developer and finishing my master's degree in computer science / AI
+- 💞️ I’m looking to collaborate in C#, Ruby and Python projects related to machine learning and robotics
 - 📫 How to reach me : Vincent Gouge on LinkedIn
 
 <!---
