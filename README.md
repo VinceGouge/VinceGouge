@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @VinceGouge
-- 👀 I’m interested in machine learning, DevOps/MLOps, robotics, and clever software design
-- 🌱 I’m currently working as a fullstack C# developer and finishing my master's degree in computer science / AI
-- 💞️ I’m looking to collaborate in C#, Ruby and Python projects related to machine learning and robotics
-- 📫 How to reach me : Vincent Gouge on LinkedIn
+Lead AI Engineer based in Quebec City, building production-grade AI systems and backend services.
 
+Primarily working with Python for AI/ML and C\# backend development, with experience across data science workflows and growing focus on data engineering. Passionate about agentic AI, robust software architecture, and shipping practical tools that automate real-world workflows.
+
+Outside of work, an avid cyclist, mountain biker, and road/trail runner, and long-time guitarist since childhood.
 <!---
 VinceGouge/VinceGouge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
